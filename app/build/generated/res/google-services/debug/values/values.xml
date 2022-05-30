@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">514515543846-6e3a8uj2u5ec3ra4iiongru3it518jgu.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://android-music-player-ffddc.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">514515543846</string>
+    <string name="google_api_key" translatable="false">AIzaSyBaA9fSk_KnxI3AWDExa6F3NFgqaFMXZTg</string>
+    <string name="google_app_id" translatable="false">1:514515543846:android:f809744c240fd8e24543e7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBaA9fSk_KnxI3AWDExa6F3NFgqaFMXZTg</string>
+    <string name="google_storage_bucket" translatable="false">android-music-player-ffddc.appspot.com</string>
+    <string name="project_id" translatable="false">android-music-player-ffddc</string>
+</resources>

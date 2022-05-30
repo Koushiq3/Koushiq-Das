@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+    tools:context=".HomeActivity">
+
+
+    <TextView
+        android:id="@+id/homeId"
+        android:layout_width="match_parent"
+        android:layout_height="188dp"
+        android:paddingTop="100dp"
+        android:text="Welcome To Our Android Music Player"
+        style="bold"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:layout_marginBottom="30dp"/>
+
+    <Button
+        android:id="@+id/buttonId"
+        android:layout_gravity="center"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:textAllCaps="false"
+        android:textSize="18sp"
+        android:text="Go To Playlist" />
+
+
+</LinearLayout>
